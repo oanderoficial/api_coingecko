@@ -1,0 +1,118 @@
+
+
+// Discover trending coins
+
+{
+  "coins": [
+    {
+      "item": {
+        "id": "kujira",
+        "coin_id": 20685,
+        "name": "Kujira",
+        "symbol": "KUJI",
+        "market_cap_rank": 511,
+        "thumb": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png?1696520085",
+        "small": "https://assets.coingecko.com/coins/images/20685/small/kuji-200x200.png?1696520085",
+        "large": "https://assets.coingecko.com/coins/images/20685/large/kuji-200x200.png?1696520085",
+        "slug": "kujira",
+        "price_btc": 8.530699785225133e-06,
+        "score": 0,
+        "data": {
+          "price": 0.5404859612143333,
+          "price_btc": "0.00000853069978522513",
+          "price_change_percentage_24h": {
+            "aed": -42.1544377498636,
+            "ars": -42.09228892197696,
+            "aud": -41.761136906646286,
+            "bch": -40.12029127477948,
+            "bdt": -42.18458718879239,
+            "bhd": -42.15581901181324,
+            "bmd": -42.15443774986336,
+            "bnb": -40.22929988657814,
+            "brl": -41.16562471994662,
+            "btc": -40.8037615850447,
+            "cad": -41.829377233206344,
+            "chf": -42.4310335193353,
+            "clp": -41.81409037634942,
+            "cny": -41.95492332325293,
+            "czk": -42.19114440649776,
+            "dkk": -41.95473013543956,
+            "dot": -39.87855032016067,
+            "eos": -34.31647501895179,
+            "eth": -39.98259674978616,
+            "eur": -41.951691005254034,
+            "gbp": -41.584224410191304,
+            "gel": -42.260967330434426,
+            "hkd": -42.14877543306574,
+            "huf": -41.62633401084186,
+            "idr": -42.029056005930826,
+            "ils": -41.66219073203827,
+            "inr": -42.14361611108439,
+            "jpy": -42.32219290595561,
+            "krw": -42.0857203536745,
+            "kwd": -42.129826081153695,
+            "lkr": -41.998955400357744,
+            "ltc": -39.176184778967524,
+            "mmk": -42.15443774986337,
+            "mxn": -41.32697815284631,
+            "myr": -42.47548723019381,
+            "ngn": -42.15443774986346,
+            "nok": -41.88553108934157,
+            "nzd": -42.066293337935846,
+            "php": -42.206490576158714,
+            "pkr": -42.16480433808038,
+            "pln": -41.780114640854585,
+            "rub": -41.80932681948866,
+            "sar": -42.14275124820005,
+            "sek": -42.00584513108536,
+            "sgd": -42.132324522803124,
+            "thb": -42.106463499473215,
+            "try": -42.20472662425502,
+            "twd": -42.01390794420988,
+            "uah": -42.10582781906816,
+            "usd": -42.15443774986336,
+            "vef": -42.15443774986339,
+            "vnd": -42.27851102031983,
+            "xag": -41.097872311704066,
+            "xau": -42.029825522739486,
+            "xdr": -42.187596218309615,
+            "xlm": -39.594426635352804,
+            "xrp": -37.04283275622823,
+            "yfi": -40.35628132907925,
+            "zar": -41.90349760192143,
+            "bits": -40.803761585044704,
+            "link": -39.76348013779861,
+            "sats": -40.8037615850447
+          },
+          "market_cap": "$66,041,167",
+          "market_cap_btc": "1042.99713000727",
+          "total_volume": "$8,522,906",
+          "total_volume_btc": "134.520335487499",
+          "sparkline": "https://www.coingecko.com/coins/20685/sparkline.svg",
+          "content": null
+        }
+      }
+    }
+  ],
+  "nfts": [
+    {
+      "id": "degen-fat-cats",
+      "name": "Degen Fat Cats",
+      "symbol": "DEGENFATCATS",
+      "thumb": "https://assets.coingecko.com/nft_contracts/images/2438/standard/degen-fat-cats.png?1707288357",
+      "nft_contract_id": 2438,
+      "native_currency_symbol": "sol",
+      "floor_price_in_native_currency": 3.025,
+      "floor_price_24h_percentage_change": 26.7200604150774,
+      "data": {
+        "floor_price": "3.03 SOL",
+        "floor_price_in_usd_24h_percentage_change": "26.7200604150774",
+        "h24_volume": "373.42 SOL",
+        "h24_average_sale_price": "3.25 SOL",
+        "sparkline": "https://www.coingecko.com/nft/2438/sparkline.svg",
+        "content": null
+      }
+    }
+  ]
+}
+
