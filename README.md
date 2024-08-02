@@ -27,6 +27,7 @@ parametros = {
 response = requests.get(url, params=parametros)
 data = response.json()
 ```
+<strong> Link: https://www.coingecko.com/pt/api </strong> 
 
 <strong> Dataframe </strong>
 
