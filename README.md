@@ -27,3 +27,10 @@ parametros = {
 response = requests.get(url, params=parametros)
 data = response.json()
 ```
+
+<strong> Dataframe </strong>
+
+```python
+df = pd.DataFrame(data)
+print(df.head())
+```
