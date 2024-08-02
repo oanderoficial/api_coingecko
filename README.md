@@ -11,3 +11,19 @@ import streamlit as st
 import plotly.express as px
 import requests
 ```
+
+<strong> API </strong>
+
+```python
+url = "https://api.coingecko.com/api/v3/coins/markets"
+parametros = {
+    "vs_currency": "brl",
+    "order": "market_cap_desc",
+    "per_page": 1000,
+    "page": 1,
+    "sparkline": "false"
+}
+
+response = requests.get(url, params=parametros)
+data = response.json()
+```
